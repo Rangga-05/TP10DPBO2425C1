@@ -58,3 +58,4 @@ Alur dasar ini berlaku untuk semua modul (Pelanggan, Layanan, Pegawai, dan Trans
 - **Data Binding:** Data transaksi (seperti nama, layanan, pegawai) diambil melalui JOIN SQL dan ditampilkan secara terintegrasi di tabel daftar. Form Edit juga otomatis memuat data lama.
 
 # 📸 Dokumentasi
+https://github.com/user-attachments/assets/029eae7b-77f9-40ee-b795-c26bef3a6b10
